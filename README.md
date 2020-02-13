@@ -1,3 +1,3 @@
 # Chatbot
-Created in Python and Web development
+Created in Django
 Web Development
