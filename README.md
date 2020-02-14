@@ -1,2 +1,2 @@
 # Chatbot
-Created in Django
+Python and Web Development
