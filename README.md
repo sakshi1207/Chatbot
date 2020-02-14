@@ -1,2 +1,2 @@
 # Chatbot
-Python and Web Development
+Languages used Python and Web Development
